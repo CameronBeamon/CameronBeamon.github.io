@@ -75,7 +75,7 @@
 						$section = $(id);
 
 					// No section for this link? Bail.
-						if ($section.length < 1)
+						if ($section.length < 0.5)
 							return;
 
 					// Scrollex.
