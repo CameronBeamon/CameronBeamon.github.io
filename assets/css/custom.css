@@ -1,0 +1,53 @@
+body {
+  background: url(images/moon.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  opacity: 1;
+}
+
+/* #quote {
+  color: black;
+  background-color: rgb(237, 245, 237);
+  border-collapse: collapse;
+  display: inline-block;
+  font-family: "Gabriela", serif;
+  font-size: 3.5em;
+  border-radius: 20px;
+  background: rgba(248, 248, 248, 0.5);
+  padding: 0.5em 0.2em 0.8em 0.1em;
+  opacity: 1;
+}
+
+#myname {
+  color: black;
+  background-color: red;
+  border-collapse: collapse;
+  display: inline-block;
+  font-family: "Gabriela", serif;
+  font-size: 3.5em;
+  border-radius: 20px;
+  background: rgba(213, 216, 218, 0.5);
+  padding: 0.5em 0.2em 0.8em 0.5em;
+} */
+
+#three {
+  background: rgba(0, 0, 0, 0.5);
+}
+
+#one {
+  background: rgba(0, 0, 0, 0.5);
+}
+
+#footer {
+  background: rgba(0, 0, 0, 0.5);
+}
+
+#header {
+  background: rgba(0, 0, 0, 0.5);
+}
+
+#sidebar {
+  background: rgba(0, 0, 0, 0.5);
+}
