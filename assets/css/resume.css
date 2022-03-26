@@ -1,0 +1,29 @@
+body {
+  background: url(images/white_flower.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  opacity: 1;
+}
+
+#footer {
+  background: rgba(0, 0, 0, 0.5);
+}
+
+#header {
+  background: rgba(0, 0, 0, 0.5);
+}
+
+#quote {
+  color: black;
+  background-color: rgb(237, 245, 237);
+  border-collapse: collapse;
+  display: inline-block;
+  font-family: "Gabriela", serif;
+  font-size: 1.5em;
+  border-radius: 20px;
+  background: rgba(248, 248, 248, 0.5);
+  padding: 0.5em 0.2em 0.8em 0.1em;
+  opacity: 1;
+}
